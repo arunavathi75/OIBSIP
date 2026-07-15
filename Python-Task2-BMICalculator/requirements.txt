@@ -1,0 +1,2 @@
+# BMI Calculator
+# This project uses only built-in Python features.
