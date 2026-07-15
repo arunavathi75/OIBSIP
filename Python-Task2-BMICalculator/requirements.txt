@@ -1,5 +1,0 @@
-# Random Password Generator
-# This project uses Python built-in modules only.
-# Required modules:
-# - random
-# - string
