@@ -1,0 +1,6 @@
+# Basic Weather App
+
+# This project uses the following Python modules.
+
+# Required modules:
+# - requests
